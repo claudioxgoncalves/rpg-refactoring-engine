@@ -110,8 +110,8 @@ The engine processes source code through **4 transformation levels**, each build
      C                   eval      wavar6 = ' '
      C                   eval      wavar7 = ' '
      ...
-     C                   time                    wzbcall3               99
-     C                   call      'WAPGM3'
+     C                   time                    wzbcall3
+     C                   call      'WAPGM3'                             99
      ...
      C                   if        *in(99) = '1'                                if
      ...
